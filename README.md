@@ -8,4 +8,4 @@ As part of the Google Data Analytics Specialist Certificate, I completed a cours
 
 * Data Visualization with R: Creating compelling visualizations using popular libraries like ggplot2 in the R programming language to communicate insights visually.
 
-* <b>Packages and Libraries in R:<\b> Exploring and leveraging various R packages specific to data analytics tasks and analyses.
+* <b>Packages and Libraries in R:</b> Exploring and leveraging various R packages specific to data analytics tasks and analyses.
